@@ -59,7 +59,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cparanjpe&bg_color=000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github.com/cparanjpe/cparanjpe/blob/main/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -71,6 +71,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Paranjpe-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
+
 
 <!---
 cparanjpe/cparanjpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
