@@ -54,13 +54,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=cparanjpe&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github.com/cparanjpe/cparanjpe/blob/main/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
-</p>
 
 ---
 
